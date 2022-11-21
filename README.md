@@ -32,7 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 #### License
 
 [MIT](Commonmark.org)
-
+-------------------------------------------------------------------------------------
 ![image](https://www.bilgeteknoloji.com/assets/images/web.gif)
 
 
