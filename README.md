@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 
 ## Installation
 
-Öncelikle projeyi clonelayın: [Repoma gitmek için lütfen tıklayınız](https://github.com/cancomertpay/kodluyoruzilkrepo.git) 
+Öncelikle projeyi clonelayın: 
 
 ```
 
