@@ -9,6 +9,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 Öncelikle projeyi clonelayın: [Repoma gitmek için lütfen tıklayınız](https://github.com/cancomertpay/kodluyoruzilkrepo.git) 
 
 ```
+
 git clone https://github.com/cancomertpay/kodluyoruzilkrepo.git 
 
 ```
@@ -20,6 +21,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
  ```
+ 
 cd kodluyoruzilkrepo
 code .
 
